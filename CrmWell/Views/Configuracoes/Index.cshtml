@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Configurações";
+}
+<style>
+
+    .prod-box {
+        height: 55%;
+        width: 40%;
+        margin-top: 5%;
+    }
+
+    .box-prod-menu {
+        padding: 2px;
+        transition: all .2s ease-in-out;
+        padding: 10px;
+        margin: 10px;
+        font-weight: bolder;
+    }
+
+        .box-prod-menu:hover {
+            background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+            cursor: pointer;
+        }
+</style>
+<div class="col-12 p-0 m-0">
+    <div class="row text-center p-0 m-0 ">
+
+        <div class="col-2 text-center box-prod-menu " id="menu-Backup">
+            <img src="~/img/icons/Configuracoes/Backup_without_background.png" class=" prod-box" alt="Alternate Text" />
+            <p class="text-center">Gerar Backup</p>
+        </div>
+
+        <div class="col-2 text-center box-prod-menu " id="menu-Backup-Carregar">
+            <img src="~/img/icons/Configuracoes/SendBackup_without_background.png" class=" prod-box" alt="Alternate Text" />
+            <p class="text-center">Carregar Backup</p>
+        </div>
+
+    </div>
+</div>
+

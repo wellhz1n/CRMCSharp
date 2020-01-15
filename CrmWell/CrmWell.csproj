@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190918005832_Start.cs" />
+    <Compile Remove="Migrations\20190918005832_Start.Designer.cs" />
+    <Compile Remove="Migrations\20191004132920_Venda.cs" />
+    <Compile Remove="Migrations\20191004132920_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191004135230_Venda.cs" />
+    <Compile Remove="Migrations\20191004135230_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191004135909_Venda.cs" />
+    <Compile Remove="Migrations\20191004135909_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191004140351_Venda1.cs" />
+    <Compile Remove="Migrations\20191004140351_Venda1.Designer.cs" />
+    <Compile Remove="Migrations\20191004141223_Venda.cs" />
+    <Compile Remove="Migrations\20191004141223_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191004141557_Venda1.cs" />
+    <Compile Remove="Migrations\20191004141557_Venda1.Designer.cs" />
+    <Compile Remove="Migrations\20191004222854_Venda.cs" />
+    <Compile Remove="Migrations\20191004222854_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191004231142_Venda1.cs" />
+    <Compile Remove="Migrations\20191004231142_Venda1.Designer.cs" />
+    <Compile Remove="Migrations\20191005185257_Venda.cs" />
+    <Compile Remove="Migrations\20191005185257_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191005193804_Vendacerto.cs" />
+    <Compile Remove="Migrations\20191005193804_Vendacerto.Designer.cs" />
+    <Compile Remove="Migrations\20191005201817_Venda.cs" />
+    <Compile Remove="Migrations\20191005201817_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191005201842_Venda.cs" />
+    <Compile Remove="Migrations\20191005201842_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191005202006_Venda.cs" />
+    <Compile Remove="Migrations\20191005202006_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191005204601_Venda.cs" />
+    <Compile Remove="Migrations\20191005204601_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191005213632_Venda.cs" />
+    <Compile Remove="Migrations\20191005213632_Venda.Designer.cs" />
+    <Compile Remove="Migrations\20191005222451_Venda.cs" />
+    <Compile Remove="Migrations\20191005222451_Venda.Designer.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="4.3.1" />
+    <PackageReference Include="jQuery" Version="3.4.1" />
+    <PackageReference Include="jQuery.Ajax.Unobtrusive" Version="2.0.20710" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="NToastNotify" Version="5.0.12" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.2.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
+    <PackageReference Include="popper.js" Version="1.14.3" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <None Include="wwwroot\Iframe.html" />
+    <None Include="wwwroot\js\Login\Login.js" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Backup\" />
+  </ItemGroup>
+
+</Project>
