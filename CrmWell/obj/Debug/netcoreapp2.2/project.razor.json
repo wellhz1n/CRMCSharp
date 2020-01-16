@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\CrmWell.csproj",
+  "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\CrmWell.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2986,93 +2986,93 @@
   "RootNamespace": "CrmWell",
   "Documents": [
     {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Cadastros\\UsuarioCadastrar.cshtml",
-      "TargetPath": "Views\\Cadastros\\UsuarioCadastrar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Login\\Login.cshtml",
-      "TargetPath": "Views\\Login\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Configuracoes\\Index.cshtml",
-      "TargetPath": "Views\\Configuracoes\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Vendas\\Index.cshtml",
-      "TargetPath": "Views\\Vendas\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Inicio\\Home.cshtml",
-      "TargetPath": "Views\\Inicio\\Home.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Cadastros\\ProdutoCadastrar.cshtml",
-      "TargetPath": "Views\\Cadastros\\ProdutoCadastrar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Cadastros\\ClientesCadastrar.cshtml",
-      "TargetPath": "Views\\Cadastros\\ClientesCadastrar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Vendas\\Estoque.cshtml",
-      "TargetPath": "Views\\Vendas\\Estoque.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Cadastros\\MateriaisCadastrar.cshtml",
-      "TargetPath": "Views\\Cadastros\\MateriaisCadastrar.cshtml",
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Vendas\\Estoque.cshtml",
+      "TargetPath": "Views\\Vendas\\Estoque.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Vendas\\NovaVenda.cshtml",
-      "TargetPath": "Views\\Vendas\\NovaVenda.cshtml",
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Vendas\\Venda.cshtml",
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Inicio\\Home.cshtml",
+      "TargetPath": "Views\\Inicio\\Home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Vendas\\Venda.cshtml",
       "TargetPath": "Views\\Vendas\\Venda.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Cadastros\\Index.cshtml",
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Cadastros\\MateriaisCadastrar.cshtml",
+      "TargetPath": "Views\\Cadastros\\MateriaisCadastrar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Vendas\\Index.cshtml",
+      "TargetPath": "Views\\Vendas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Cadastros\\Index.cshtml",
       "TargetPath": "Views\\Cadastros\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projetos\\wellhz1n\\CrmWell\\CrmWell\\CrmWell\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Login\\Login.cshtml",
+      "TargetPath": "Views\\Login\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Cadastros\\UsuarioCadastrar.cshtml",
+      "TargetPath": "Views\\Cadastros\\UsuarioCadastrar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Cadastros\\ProdutoCadastrar.cshtml",
+      "TargetPath": "Views\\Cadastros\\ProdutoCadastrar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Cadastros\\ClientesCadastrar.cshtml",
+      "TargetPath": "Views\\Cadastros\\ClientesCadastrar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Vendas\\NovaVenda.cshtml",
+      "TargetPath": "Views\\Vendas\\NovaVenda.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Configuracoes\\Index.cshtml",
+      "TargetPath": "Views\\Configuracoes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
