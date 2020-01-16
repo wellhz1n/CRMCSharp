@@ -37,5 +37,5 @@
 - Graficos De Estoque
 <img src="Imagens/grafico.png" whidth="100"></img>
 <br>
-- Pdf De Estoque
+<strong>Pdf De Estoque</strong>
 <img src="Imagens/Pdf.png" whidth="100"></img>
