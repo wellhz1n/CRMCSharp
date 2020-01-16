@@ -7,8 +7,10 @@
  > Crie um Banco com o seguinte nome: CrmSharp   
 
  # Execute os Seguintes comandos
-    - dotnet ef database update
+    - dotnet ef database update (Apenas a primeira vez que o banco é criado)
     - dotnet run
+    - Usuario: admin
+    - Senha: admin
 # Fotos Demostrativas
 - login
 <img src="Imagens/login.png" whidth="100"></img>
