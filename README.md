@@ -5,7 +5,8 @@
     - dotnet 2.2
     - mysql
  > Crie um Banco com o seguinte nome CrmSharp   
- > Execute os Seguintes comandos
+ 
+ # Execute os Seguintes comandos
     - dotnet ef database update
     - dotnet run
 # Fotos Demostrativas
