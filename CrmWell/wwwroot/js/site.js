@@ -74,11 +74,14 @@ function Chartclass() {
     }
 };
 //FIM OBJECTS
-$(document).ready(() => {
+$(document).ready(async () => {
 
     if ($("#title").html() != undefined)
         if (titulo.text() === "")
             titulo.text(GetPage());
+    await $("#menucont >div >p[id='construcao']").parent().each(async (d, c) => {
+        await $(c).addClass('emconstrucao');
+    });
 });
 //FUNCOES
 function GetController() {

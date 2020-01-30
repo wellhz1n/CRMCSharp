@@ -34,5 +34,14 @@ namespace Expoceep.Controllers
             
             return result ;
         }
+        #region Personalizar
+        public IActionResult Personalizar()
+        {
+            if (_loginSession.GetUsuarioSession() != null)
+                return View();
+            else
+                return this.RedirectToAction("Login", "Login");
+        }
+        #endregion
     }
 }

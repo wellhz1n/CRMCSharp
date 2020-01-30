@@ -3066,6 +3066,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Configuracoes\\Personalizar.cshtml",
+      "TargetPath": "Views\\Configuracoes\\Personalizar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Projetos\\wellhz1n\\CRMCSharp\\CrmWell\\Views\\Configuracoes\\Index.cshtml",
       "TargetPath": "Views\\Configuracoes\\Index.cshtml",
       "FileKind": "mvc"

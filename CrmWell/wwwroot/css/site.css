@@ -214,3 +214,19 @@ body {
     height: 10%;
       background: #6720B2;
 }
+.emconstrucao {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+#construcao {
+    position: relative;
+    font-family: Comfortaa;
+    font-size: 14px;
+    width: 60%;
+    height: 10%;
+    color: white;
+    background: red;
+    left: 45px;
+    top: -90px;
+}

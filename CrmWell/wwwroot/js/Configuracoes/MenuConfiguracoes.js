@@ -19,7 +19,7 @@ $(document).on("click", "#menu-Backup", async () => {
 $(document).on("click", "#menu-Backup-Carregar", async () => {
     await BloquearTela();
     await $.post("/" + GetController() + "/CarregarBackup", {}, async (e) => {
-        if (e.resultado) 
+        if (e.resultado)
             toastr.success("Backup Carregado", "Sucesso", { preventDuplicates: true, progressBar: true });
         else {
             toastr.error("Algo deu errado: " + e.erro, "Opps!", { preventDuplicates: true, progressBar: true, escapeHtml: true });
@@ -30,5 +30,8 @@ $(document).on("click", "#menu-Backup-Carregar", async () => {
     await DesbloquearTela();
 });
 
+$(document).on("click", "#menu-layout", () => {
 
+    MudaUrl(null, "Personalizar");
 
+});
